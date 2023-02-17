@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(22, 112, 196);
+    /*margin-left:15px;*/
+}
+nav{
+    text-align: center;
+    margin-bottom:50px;
+    margin-top: 40px;
+}
+#id{
+    color:rgb(236, 232, 18);
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 280px;
+    margin-top: 75px;
+}
+
+p{
+    color:rgb(236, 232, 18);
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right: 100px;
+}
+#id2{
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 100px;
+}
+.toys{
+    color:rgb(236, 204, 18);
+    font-size: 25px;
+    font-family:fantasy;
+}
+.clothes{
+    color:rgb(43, 236, 18);
+    font-size: 25px;
+    font-family:cursive;
+}
+.sports{
+    color:rgb(236, 18, 236);
+    font-size: 25px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.imagen{
+    float: left;
+    margin-right:15px;
+}
+img{
+    display:block;
+    margin:auto;
+}
+
+
+
+
+
+

@@ -1,0 +1,88 @@
+body{
+    background-color:rgb(179, 179, 110);
+}
+h1{
+    text-align: center;
+    margin-bottom:50px;
+}
+
+.aqua {
+    background-color:aqua; 
+    color:black; 
+}
+
+.black{
+    background-color: black;
+    color:white;
+}
+
+.blue{
+    background-color: blue;
+    color:white;
+}
+
+.fuchsia{
+    background-color: fuchsia;
+    color:black;
+}
+
+.gray{
+    background-color: gray;
+    color:black;
+}
+
+.green{
+    background-color: green;
+    color:white;
+}
+
+.lime{
+    background-color: lime;
+    color:black;
+}
+
+.maroon{
+    background-color: maroon;
+    color:white;
+}
+
+.navy{
+    background-color: navy;
+    color:white;
+
+}
+.olive{
+    background-color:olive;
+    color:black;
+}
+
+.purple{
+    background-color: purple;
+    color:white;
+}
+
+.red{
+    background-color: red;
+    color:black;
+}
+
+.silver{
+    background-color: silver;
+    color:black;
+}
+
+.teal{
+    background-color: teal;
+    color:black;
+}
+
+.white{
+    background-color: white;
+    color:black;
+}
+
+.yellow{
+    background-color: yellow;
+    color:black;
+}
+
